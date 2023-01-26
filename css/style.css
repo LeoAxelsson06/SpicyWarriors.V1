@@ -1,0 +1,54 @@
+*{
+    margin:0;
+}
+header{
+    background-color: violet;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.sc{
+    border-color: black;
+    border-width: 2 px;
+    border-style: dashed;
+    border-radius: 30px;
+}
+
+.sc1{
+    background-image: url(../img/food1.webp);
+    object-fit: fill;
+    
+}
+.sc2{
+    background-color:   green;
+    object-fit: fill;
+}
+.sc3{
+    background-color: blue;
+    object-fit: fill;
+}
+.sc4{
+    background-color: red;
+    object-fit: fill;
+}
+
+/*footer styling*/
+footer {
+    background-color: rgb(25, 25, 124);
+    color: rgb(99, 115, 255); 
+}
+footer a{
+    color: rgb(99, 115, 255);
+    text-decoration: 0;
+}
+footer ul{
+    list-style: none;
+    padding: 0;
+}
+footer ul li a:hover{
+    color: white;
+}
+footer p{
+    font-size: 14px;
+    color: rgb(147, 158, 255)
+}

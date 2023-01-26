@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: violet;
+}
+
+.sc1{
+    background-color: aqua;
+}
+.sc2{
+    background-color: green;
+}
+.sc3{
+    background-color: blue;
+}
+.sc4{
+    background-color: red;
+}
+
+/*footer styling*/
+footer {
+    background-color: rgb(25, 25, 124);
+    color: rgb(99, 115, 255); 
+}
+footer a{
+    color: rgb(99, 115, 255);
+}
+footer ul{
+    list-style: none;
+}
